@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.samples, .updates {
+  border: 1px dotted blue;
+  min-width: 200px;
+  max-width: 500px;
+  min-height: 3em;
+  padding: 10px;
+  margin: 100px;
+}
+
+button {
+  margin-left: 10px
+}
